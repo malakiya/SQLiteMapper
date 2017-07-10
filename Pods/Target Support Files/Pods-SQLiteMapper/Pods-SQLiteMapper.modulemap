@@ -1,0 +1,6 @@
+framework module Pods_SQLiteMapper {
+  umbrella header "Pods-SQLiteMapper-umbrella.h"
+
+  export *
+  module * { export * }
+}
